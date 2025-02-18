@@ -7,4 +7,4 @@
 [submodule "external/fLoc"]
 	path = external/fLoc
 	url = https://github.com/viscog-cmu/fLoc.git
-	branch = central_with_inversion
+	branch = central_with_inv_and_scramb
