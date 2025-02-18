@@ -1,0 +1,10 @@
+[submodule "external/matlab_modules"]
+	path = external/matlab_modules
+	url = https://github.com/viscog-cmu/matlab_modules.git
+[submodule "external/bids_gen"]
+	path = external/bids_gen
+	url = https://github.com/viscog-cmu/bids_gen.git
+[submodule "external/fLoc"]
+	path = external/fLoc
+	url = https://github.com/viscog-cmu/fLoc.git
+	branch = central_with_inversion

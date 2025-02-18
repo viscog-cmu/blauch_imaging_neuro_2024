@@ -1,0 +1,15 @@
+hcp_utils==0.1.0
+imageio==2.31.4
+ipdb==0.13.13
+matplotlib==3.7.5
+mne==1.6.1
+neuromaps
+nibabel==3.2.1
+nilearn==0.8.1
+numpy==1.22.4
+pandas==1.4.2
+pycortex
+scipy==1.7.3
+seaborn==0.11.2
+statsmodels==0.14.1
+tqdm==4.63.0
